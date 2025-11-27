@@ -144,7 +144,7 @@ fun HomeScreen(viewModel: MainViewModel, onItemClick: (Long) -> Unit) {
                         start = 12.dp,
                         end = 12.dp,
                         top = 12.dp,
-                        bottom = 16.dp  // ⭐ Más espacio abajo
+                        bottom = 16.dp
                     ),
                     horizontalArrangement = Arrangement.spacedBy(12.dp),
                     verticalArrangement = Arrangement.spacedBy(12.dp)
